@@ -73,6 +73,10 @@ NOTE:
 
     While specifing multiple currencies, give the ids using commands and without space. 
     Eg: bitcoin,ethereum,dogecoin and not as bitcoin, ethereum, dogecoin
+
+Support the Project on Github:
+https://github.com/srivathsanvenkateswaran/Crypto-Discord-Bot
+    
     """
 
 def parsePriceJson(priceJson, fiat):
