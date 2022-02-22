@@ -28,31 +28,34 @@ Eg: bitcoin,ethereum,dogecoin and not as bitcoin, ethereum, dogecoin
 ## Supported Currencies
 
 The bot supports the following Cryptocurrencies:
-<ul>Bitcoin</ul>
-<ul>Ethereum</ul>
-<ul>Litecoin</ul>
-<ul>Dogecoin</ul>
-<ul>Bitcoin Cash</ul>
-<ul>Cardano</ul>
-<ul>Matic Network [Polygon]</ul>
-<ul>Solana</ul>
-<ul>Avalance</ul>
-<ul>Decentraland [MANA]</ul>
-<ul>Gala</ul>
-<ul>Mobox [MBOX]</ul>
-<ul>Polkadot</ul>
-<ul>Terra Luna</ul>
-<ul>Basic Attention Token</ul>
+```
+  Bitcoin 
+  Ethereum 
+  Litecoin 
+  Dogecoin 
+  Bitcoin Cash 
+  Cardano 
+  Matic Network [Polygon] 
+  Solana 
+  Avalance 
+  Decentraland [MANA] 
+  Gala 
+  Mobox [MBOX] 
+  Polkadot 
+  Terra Luna 
+  Basic Attention Token 
+```
 
 The bot displays the price in the following currencies
-
-<ul>US Dollars</ul>
-<ul>Indian Rupees</ul>
-<ul>Euro</ul>
-<ul>Pound Sterling [British Pound]</ul>
-<ul>Japanese Yen</ul>
-<ul>Canadian Dollar</ul>
-<ul>Australian Dollar</ul>
+```
+  US Dollars 
+  Indian Rupees 
+  Euro 
+  Pound Sterling [British Pound] 
+  Japanese Yen 
+  Canadian Dollar 
+  Australian Dollar 
+```
 
 ## Demo Video
 
