@@ -11,31 +11,31 @@ Click this link to add your bot to this server...
 ## Supported Currencies
 
 The bot supports the following Cryptocurrencies:
-<ol>Bitcoin</ol>
-<ol>Ethereum</ol>
-<ol>Litecoin</ol>
-<ol>Dogecoin</ol>
-<ol>Bitcoin Cash</ol>
-<ol>Cardano</ol>
-<ol>Matic Network [Polygon]</ol>
-<ol>Solana</ol>
-<ol>Avalance</ol>
-<ol>Decentraland [MANA]</ol>
-<ol>Gala</ol>
-<ol>Mobox [MBOX]</ol>
-<ol>Polkadot</ol>
-<ol>Terra Luna</ol>
-<ol>Basic Attention Token</ol>
+<ul>Bitcoin</ul>
+<ul>Ethereum</ul>
+<ul>Litecoin</ul>
+<ul>Dogecoin</ul>
+<ul>Bitcoin Cash</ul>
+<ul>Cardano</ul>
+<ul>Matic Network [Polygon]</ul>
+<ul>Solana</ul>
+<ul>Avalance</ul>
+<ul>Decentraland [MANA]</ul>
+<ul>Gala</ul>
+<ul>Mobox [MBOX]</ul>
+<ul>Polkadot</ul>
+<ul>Terra Luna</ul>
+<ul>Basic Attention Token</ul>
 
 The bot displays the price in the following currencies
 
-<ol>US Dollars</ol>
-<ol>Indian Rupees</ol>
-<ol>Euro</ol>
-<ol>Pound Sterling [British Pound]</ol>
-<ol>Japanese Yen</ol>
-<ol>Canadian Dollar</ol>
-<ol>Australian Dollar</ol>
+<ul>US Dollars</ul>
+<ul>Indian Rupees</ul>
+<ul>Euro</ul>
+<ul>Pound Sterling [British Pound]</ul>
+<ul>Japanese Yen</ul>
+<ul>Canadian Dollar</ul>
+<ul>Australian Dollar</ul>
 
 ## Demo Video
 
