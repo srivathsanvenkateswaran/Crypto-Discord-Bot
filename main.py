@@ -14,7 +14,14 @@ coinIdDict = {
     'Bitcoin Cash' : 'bitcoin-cash',
     'Cardano' : 'cardano',
     'Matic Network' : 'matic-network',
-    'Amaten' : 'amaten'
+    'Decentraland [MANA]' : 'decentraland',
+    'Gala' : 'gala',
+    'MBOX' : 'mobox',
+    'Avalanche': 'avalanche-2',
+    'Polkadot' : 'polkadot',
+    'Solana' : 'solana',
+    'Terra Luna' : 'terra-luna',
+    'Basic Attention Token' : 'bat',
 }
 
 fiatIdDict = {
