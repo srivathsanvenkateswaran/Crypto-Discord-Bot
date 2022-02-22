@@ -103,4 +103,4 @@ async def on_message(message):
         await message.channel.send(parsePriceJson(getPrice(crypto, fiat), fiat))        
 
 
-client.run('YOUR TOKEN HERE')
+client.run('ODU3ODg2OTEwNjkzMTEzODU3.YNWHcg.669_jt7ACe9Rv_78EcEjE87UGnY')
