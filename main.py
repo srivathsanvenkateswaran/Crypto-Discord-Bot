@@ -1,6 +1,7 @@
 from logging import fatal
 import discord
 from pycoingecko import CoinGeckoAPI
+import os
 
 client = discord.Client()
 cg = CoinGeckoAPI()
@@ -102,5 +103,5 @@ async def on_message(message):
 
         await message.channel.send(parsePriceJson(getPrice(crypto, fiat), fiat))        
 
-
-client.run('YOUR TOKEN HERE')
+CRYPTO_BOT_TOKEN = os.environ.get('CRYPTO_BOT_TOKEN')
+client.run(CRYPTO_BOT_TOKEN)
