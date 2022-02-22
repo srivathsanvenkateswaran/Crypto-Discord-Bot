@@ -8,6 +8,23 @@ Click this link to add your bot to this server...
 
 [Crypto Price Discord Bot](https://discord.com/oauth2/authorize?client_id=857886910693113857&permissions=2148005952&scope=bot)
 
+## Usage
+
+Bot supports the following commands
+
+| Command  |  Function |
+|---|---|
+| ```.commands``` | Get the list of commands |
+| ```.coinList``` | Get the list of supported Cryptocurrencies and their code 🪙 |
+| ```.fiatList``` | Get the list of supported Fiat Currencies and their code 💵 |
+| ```.getPrice <cryptoId> <fiatId>``` | Get the current price of Cryptocurrencies in the mentioned Fiat Currency. 🪙 ➡️ 💵 |
+
+<b>NOTE: </b> Please mention the crypto currencies and Fiat currency with their respective ids. You can find the Id using .coinList and .fiatList commands </br>
+
+While specifing multiple currencies, give the ids using commands and without space. </br>
+
+Eg: bitcoin,ethereum,dogecoin and not as bitcoin, ethereum, dogecoin
+
 ## Supported Currencies
 
 The bot supports the following Cryptocurrencies:
